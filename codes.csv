@@ -1,0 +1,382 @@
+participant_question,code
+601,tracking
+602,tracking
+602,planning
+602,feature management
+603,sprints
+603,milestone type
+603,feature management
+604,sprints
+604,agile methodology
+605,group tasks
+605,release
+606,group tasks
+607,communication
+607,delivery of functionality
+607,project management
+608,prioritization
+608,planning
+609,sprints
+609,product backlog
+610,prioritization
+610,planning
+610,tracking
+611,sprints
+611,prioritization
+611,project management
+612,long tasks
+612,tracking
+613,release dates
+614,release dates
+614,planning
+615,group tasks
+615,tracking
+615,feature management
+616,release dates
+617,release dates
+618,success
+619,tracking
+619,feature management
+620,project management
+621,release dates
+622,release dates
+623,group tasks
+623,release dates
+624,group tasks
+625,release dates
+626,sprints
+626,setting goals
+627,tracking
+627,release dates
+628,release dates
+629,group tasks
+630,project owner
+630,stakeholder
+631,developer
+632,all team
+633,developer
+634,architect
+635,developer
+636,product manager
+637,engineering managers (tech lead)
+637,product managers
+638,developer
+639,developer
+640,engineering managers (tech lead)
+640,product managers
+641,all team
+642,manager
+643,engineering managers (tech lead)
+643,product managers
+644,engineering managers (tech lead)
+645,product managers
+646,product owner
+647,manager
+648,all team
+649,engineering managers (tech lead)
+649,product managers
+650,release leader
+651,project manager
+652,developer
+653,developer
+654,team leader
+655,engineering managers (tech lead)
+655,product managers
+656,customer
+657,lead developer
+658,manager
+658,product owner
+659,tasks
+659,due date
+660,due date
+661,fixed length
+661,features size
+661,tasks
+662,due date
+663,tasks
+663,due date
+664,due date
+665,due date
+665,fixed length
+666,fixed length
+667,separate tool
+668,backlog items
+668,meetings
+668,product manager
+668,due date
+669,delivery of functionality
+669,fixed length
+670,meetings
+670,features size
+670,prioritization
+671,fixed length
+672,tasks
+672,due date
+673,backlog items
+673,prioritization
+674,due date
+675,due date
+677,due date
+677,release mapping
+678,due date
+678,estimations
+679,due date
+680,release mapping
+681,due date
+681,customer
+682,scope
+683,scope
+684,meetings
+684,prioritization
+684,setting goals
+685,due date
+687,fixed length
+688,several
+689,few
+690,unrelated to release
+691,one to one
+692,one to one
+693,one to one
+694,NA
+695,one to one
+696,few
+697,one to one
+698,one to one
+699,none
+700,one to one
+701,varies
+701,unrelated to release
+702,None
+703,NA
+704,one to one
+705,several
+706,one to one
+707,few
+708,several
+709,one to one
+710,unrelated to release
+711,unrelated to release
+712,one to one
+713,several
+714,one to one
+715,one to one
+716,NA
+717,NA
+718,NA
+719,value of delivery
+719,fail
+720,small impact
+720,smal project
+721,no
+722,no
+723,accumulating
+723,development process
+723,yes
+724,fail
+724,yes
+725,NA
+726,NA
+727,no
+727,accumulating
+728,customer
+728,functionality
+729,no
+730,justification
+731,no
+731,accumulating
+732,fail
+732,yes
+733,no
+733,accumulating
+734,maybe
+735,yes
+735,accumulating
+735,delay
+736,yes
+736,estimations
+737,NA
+738,no
+739,customer
+740,no
+740,when ready
+741,no
+742,yes
+742,accumulating
+743,no
+743,flexible
+744,no
+745,accumulating
+745,yes
+746,NA
+747,bad
+747,expected
+748,bad
+748,effort
+748,milestone length
+748,trade-off
+749,don't know
+750,bad
+751,bad
+752,expected
+753,expected
+754,expected
+755,mismatch
+755,bad planning
+756,expected
+757,NA
+758,expected
+759,NA
+760,NA
+761,bad
+762,bad
+762,good
+762,bad planning
+763,expected
+764,almost completed
+765,good
+766,good
+767,expected
+768,expected
+769,expected
+770,expected
+771,NA
+772,expected
+773,bad planning
+774,expected
+775,NA
+776,estimations
+777,estimations
+777,risk
+777,milestone length
+777,milestone phases
+777,planning
+777,requirements
+778,NA
+779,number of tasks
+780,bad planning
+780,experience
+781,prioritization
+781,bad planning
+781,technical issues
+781,risk
+782,number of tasks
+782,technical issues
+782,risk
+783,bad planning
+783,complexity
+783,task weight
+784,NA
+785,number of tasks
+785,task weight
+786,bad planning
+786,prioritization
+786,risk
+787,risk
+787,regression
+788,bad planning
+788,unexpected tasks
+789,NA
+790,bad planning
+791,bad planning
+791,risks
+791,sickness
+791,unexpected tasks
+792,NA
+793,bad planning
+793,unexpected tasks
+794,unexpected tasks
+794,parallel work
+795,bad planning
+795,estimations
+796,unexpected tasks
+796,risk
+796,bad planning
+797,NA
+798,bad planning
+798,estimations
+799,quality
+800,bad planning
+800,risk
+800,estimations
+801,NA
+802,prioritization
+803,risk
+803,unexpected tasks
+804,NA
+805,NA
+806,risk
+806,before milestone
+806,experience
+806,planning
+806,requirements
+807,NA
+808,multiple projects
+809,NA
+810,NA
+811,NA
+812,NA
+813,NA
+814,issue weight
+814,past success
+815,NA
+816,requirements
+817,experience
+818,NA
+819,planning
+820,NA
+821,NA
+822,separation of tasks
+823,risk
+823,bad planning
+823,bad management
+824,NA
+825,merge length
+826,NA
+827,NA
+828,complexity
+829,NA
+830,planning
+831,NA
+832,NA
+833,NA
+834,NA
+835,risk
+835,milestone type
+835,unrelated to release
+835,feature management
+835,sprint management
+836,NA
+837,NA
+838,milestone management
+839,milestone management
+840,NA
+841,moved issues
+842,NA
+843,milestone management
+844,NA
+845,planning
+845,milestone management
+846,NA
+847,NA
+848,assignees
+848,milestone scope
+848,milestone management
+849,milestone duration
+849,number of tasks
+850,NA
+851,NA
+852,estimations
+852,factored in
+853,tools
+854,NA
+855,NA
+856,better reporting
+856,progress reports
+857,NA
+858,warnings
+858,statistics
+858,tools
+859,NA
+860,expectations management
+860,delayed milestones
+861,NA
