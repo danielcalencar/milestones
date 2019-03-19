@@ -17,4 +17,13 @@ public class AppTest
     {
         assertTrue( true );
     }
+
+    /**
+     * Another Rigorous Test :-)
+     */
+    @Test
+    public void shouldAnswerWithTrue2()
+    {
+        assertTrue( true );
+    }
 }
